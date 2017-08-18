@@ -1,13 +1,12 @@
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/flexible\/css\/fibox\.less}line{font-family:\000032}}
-ul {
-  width: 10rem;
+* {
+  margin: 0;
+  padding: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/flexible\/css\/fibox\.less}line{font-family:\000034}}
 ul li {
   height: 1.33333333rem;
   width: 100%;
   border-bottom: 1px solid #E0E0E0;
   line-height: 1.33333333rem;
   text-align: center;
-  text-decoration: none;
+  list-style: none;
 }
